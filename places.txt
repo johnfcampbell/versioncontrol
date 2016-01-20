@@ -1,3 +1,5 @@
 washington
 new york
 montclair
+portland
+vancouver
